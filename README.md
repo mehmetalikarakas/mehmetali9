@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Ankara,Turkey
-* ✉️  You can contact me at [mali.karakas11@gmail.com](mailto:mali.karakas11@gmail.com)
+* ✉️  You can contact me at [mali.karakas11@gmail.com](mailto:info@mehmetalikarakas.com)
 * 🧠  I'm learning everything i care about
 
 ### Skills
